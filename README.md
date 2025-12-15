@@ -45,7 +45,7 @@ Il sistema penalizza automaticamente i percorsi con scali, preferendo voli diret
 ├── gui_astar.py          # Interfaccia grafica tkinter
 ├── motore_astar.py       # Logica A* e parsing dataset
 ├── voli.pl               # Dataset in stile Prolog
-├── volAI.pdf             # Tesina descrittiva completa
+├── JUSTSKY.pdf             # Tesina descrittiva completa
 └── requirements.txt      # Requisiti da installare
 └── README.md             # Questo file
 ```
